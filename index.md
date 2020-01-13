@@ -1,3 +1,3 @@
 Hello, world!
 
-LOTSA testing.
+Testing.
